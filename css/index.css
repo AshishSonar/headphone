@@ -285,10 +285,19 @@ body {
   }
 
   .headphone {
-    height: 400px;
+    height: 350px;
     order: -1;
     margin-bottom: -250px;
     margin-top: -50px;
   }
 
+  .action-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    margin-right: 0px;
+  }
+  
+  .action-btns {
+    margin-top: 0px;
+  }
 }
